@@ -1,0 +1,28 @@
+John
+Wick
+Computer Science
+01/01/2001
+johnwick@mail.com
+19010101001
++996101101101
+Pamirbek
+Mountainson
+Computer Science
+02/02/2002
+pamirbek@mail.com
+19010101002
++996101101102
+Garou
+Herohunter
+Computer Science
+03/03/2003
+garou@mail.com
+19010101003
++996101101103
+Michael
+Jordan
+Computer Science
+04/04/2004
+jordan@mail.com
+19010101004
++996101101104
